@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2024-04-16T15:45:23.984Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="vqmE9yYSpycOZbawWqxq" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-16T16:02:22.260Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="DwTQX1pMCeEMqD3fxg0V" version="24.2.5" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="2603" dy="1573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="5266" dy="2958" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="WLHqO2OZkGNbgsktWJH0-1776" style="endArrow=none;strokeWidth=6;strokeColor=#C73500;html=1;fillColor=#fa6800;" edge="1" parent="1" source="1515" target="WLHqO2OZkGNbgsktWJH0-1732">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1177" y="707" as="sourcePoint" />
+            <mxPoint x="1448" y="268" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="1350" value="physical&lt;br&gt;&lt;div&gt;بدني&lt;br&gt;qb-gym&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#1699D3;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="249.5" y="325.88" width="120" height="120" as="geometry" />
         </mxCell>
@@ -646,6 +652,183 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1163.25" y="676.5" as="sourcePoint" />
             <mxPoint x="548.25" y="343.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WLHqO2OZkGNbgsktWJH0-1732" value="&lt;b&gt;baby driver&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#000000;align=center;strokeWidth=3;fillColor=#f0a30a;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="1795.5" y="910" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="WLHqO2OZkGNbgsktWJH0-1734" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#C73500;html=1;fillColor=#fa6800;" edge="1" parent="1" source="WLHqO2OZkGNbgsktWJH0-1732" target="WLHqO2OZkGNbgsktWJH0-1742">
+          <mxGeometry x="-221.5" y="56.5" width="100" height="100" as="geometry">
+            <mxPoint x="1034.5" y="802.2" as="sourcePoint" />
+            <mxPoint x="1983.125" y="1037.2" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WLHqO2OZkGNbgsktWJH0-1735" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#C73500;html=1;fillColor=#fa6800;" edge="1" parent="1" source="WLHqO2OZkGNbgsktWJH0-1732" target="WLHqO2OZkGNbgsktWJH0-1740">
+          <mxGeometry x="-221.5" y="56.5" width="100" height="100" as="geometry">
+            <mxPoint x="1034.5" y="802.2" as="sourcePoint" />
+            <mxPoint x="1764.1923076923076" y="1087.2" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WLHqO2OZkGNbgsktWJH0-1736" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#C73500;html=1;fillColor=#fa6800;" edge="1" parent="1" source="WLHqO2OZkGNbgsktWJH0-1732" target="WLHqO2OZkGNbgsktWJH0-1739">
+          <mxGeometry x="-221.5" y="56.5" width="100" height="100" as="geometry">
+            <mxPoint x="1730.0999999999995" y="1061.53" as="sourcePoint" />
+            <mxPoint x="1666" y="1047.49" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WLHqO2OZkGNbgsktWJH0-1738" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#C73500;html=1;fillColor=#fa6800;" edge="1" parent="1" source="WLHqO2OZkGNbgsktWJH0-1732" target="WLHqO2OZkGNbgsktWJH0-1741">
+          <mxGeometry x="-221.5" y="56.5" width="100" height="100" as="geometry">
+            <mxPoint x="1808" y="925.7" as="sourcePoint" />
+            <mxPoint x="1776" y="875.7" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WLHqO2OZkGNbgsktWJH0-1739" value="75%" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;shadow=0;html=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="1645" y="1096.96" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WLHqO2OZkGNbgsktWJH0-1740" value="50%" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;shadow=0;html=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="2019.5" y="1101.69" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WLHqO2OZkGNbgsktWJH0-1741" value="100%" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;shadow=0;html=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="1639" y="858.19" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WLHqO2OZkGNbgsktWJH0-1742" value="25%" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;shadow=0;html=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="2010" y="860.3800000000001" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WLHqO2OZkGNbgsktWJH0-1743" value="&lt;div&gt;&lt;font size=&quot;1&quot;&gt;زيادة نسبة الحظ 10% عندما&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;يقوم اللاعب بالبحث عن مفتاح&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;المركبة&lt;/font&gt;&lt;/div&gt;" style="rounded=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;shadow=0;html=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="2140" y="819.72" width="120" height="51.13" as="geometry" />
+        </mxCell>
+        <mxCell id="WLHqO2OZkGNbgsktWJH0-1744" value="" style="endArrow=none;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="WLHqO2OZkGNbgsktWJH0-1742" target="WLHqO2OZkGNbgsktWJH0-1743">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2140.5" y="776.19" as="sourcePoint" />
+            <mxPoint x="2187.4999999999995" y="765.69" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WLHqO2OZkGNbgsktWJH0-1745" value="&lt;font size=&quot;1&quot;&gt;تخفيض نسبة 5% من ارتفاع الضغط عند&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&amp;nbsp;القيادة&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: x-small; background-color: initial;&quot;&gt;بسرعة عالية&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=3;shadow=0;html=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="2040" y="728.8800000000001" width="141.5" height="51.5" as="geometry" />
+        </mxCell>
+        <mxCell id="WLHqO2OZkGNbgsktWJH0-1746" value="" style="endArrow=none;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="WLHqO2OZkGNbgsktWJH0-1742" target="WLHqO2OZkGNbgsktWJH0-1745">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2160.5" y="743.44" as="sourcePoint" />
+            <mxPoint x="2190.5" y="743.44" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WLHqO2OZkGNbgsktWJH0-1747" value="&lt;font size=&quot;1&quot;&gt;زيادة فرصة 5% من طيران اللاعب&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;من الجامة الأمامية عند الاصطدام&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;وهو يقود بسرعة عالية&lt;/font&gt;&lt;/div&gt;" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;shadow=0;html=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="2130" y="931.0400000000001" width="130" height="46.5" as="geometry" />
+        </mxCell>
+        <mxCell id="WLHqO2OZkGNbgsktWJH0-1748" value="" style="endArrow=none;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WLHqO2OZkGNbgsktWJH0-1742" target="WLHqO2OZkGNbgsktWJH0-1747">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2130.5" y="800.69" as="sourcePoint" />
+            <mxPoint x="2160.5" y="800.69" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WLHqO2OZkGNbgsktWJH0-1749" value="&lt;font size=&quot;1&quot;&gt;تقليل 10% من فرصة فقدان&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;الإطارات عند القفز بالمركبة&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;من اماكن مرتفعه&lt;/font&gt;&lt;/div&gt;" style="rounded=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;shadow=0;html=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="2061.5" y="1172.02" width="120" height="56.13" as="geometry" />
+        </mxCell>
+        <mxCell id="WLHqO2OZkGNbgsktWJH0-1750" value="" style="endArrow=none;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="WLHqO2OZkGNbgsktWJH0-1740" target="WLHqO2OZkGNbgsktWJH0-1749">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1390" y="1269.2" as="sourcePoint" />
+            <mxPoint x="1422.9999999999995" y="1268.7" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WLHqO2OZkGNbgsktWJH0-1751" value="&lt;font size=&quot;1&quot;&gt;زيادة فرصة 5% من طيران اللاعب&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;من الجامة الأمامية عند الاصطدام&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;وهو يقود بسرعة عالية&lt;/font&gt;&lt;/div&gt;" style="rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=3;shadow=0;html=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="1910" y="1170" width="139.5" height="57.81" as="geometry" />
+        </mxCell>
+        <mxCell id="WLHqO2OZkGNbgsktWJH0-1752" value="" style="endArrow=none;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="WLHqO2OZkGNbgsktWJH0-1740" target="WLHqO2OZkGNbgsktWJH0-1751">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1390" y="1261.3200000000002" as="sourcePoint" />
+            <mxPoint x="1426" y="1246.45" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WLHqO2OZkGNbgsktWJH0-1753" value="&lt;font size=&quot;1&quot;&gt;زيادة 20% من وقت المحاولة عند&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;سرقة مركبة بأستخدام فاتح الأقفال&lt;/font&gt;&lt;/div&gt;" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;shadow=0;html=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="2094.5" y="1061.35" width="130.5" height="56.5" as="geometry" />
+        </mxCell>
+        <mxCell id="WLHqO2OZkGNbgsktWJH0-1754" value="" style="endArrow=none;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="WLHqO2OZkGNbgsktWJH0-1740" target="WLHqO2OZkGNbgsktWJH0-1753">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1390" y="1275.2" as="sourcePoint" />
+            <mxPoint x="1396" y="1303.7" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WLHqO2OZkGNbgsktWJH0-1755" value="&lt;font color=&quot;#f19c99&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;baby driver&lt;/span&gt;&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2310" y="1131.32" width="130" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="WLHqO2OZkGNbgsktWJH0-1756" value="تتم زيادة 50% من هذا المومنتم عندما يقوم اللاعب بقيادة المركبة وتكتمل عندما يقوم بعمل مهام سرقة المركبات حتى تصل 100%" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="WLHqO2OZkGNbgsktWJH0-1755">
+          <mxGeometry y="30" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="WLHqO2OZkGNbgsktWJH0-1757" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fillColor=#fa6800;strokeColor=#C73500;" edge="1" parent="1" target="WLHqO2OZkGNbgsktWJH0-1755">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1890" y="1010.19" as="sourcePoint" />
+            <mxPoint x="2050" y="1071.3200000000002" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1970" y="1040.19" />
+              <mxPoint x="1980" y="1080.19" />
+              <mxPoint x="2130" y="1140.19" />
+              <mxPoint x="2160" y="1150.19" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WLHqO2OZkGNbgsktWJH0-1758" value="&lt;font size=&quot;1&quot;&gt;الحصول على 10% تخفيض&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;عندما يتم تصليح المركبة عند&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;الميكانيكي&lt;/font&gt;&lt;/div&gt;" style="rounded=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;shadow=0;html=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="1170.19" width="125" height="62.02" as="geometry" />
+        </mxCell>
+        <mxCell id="WLHqO2OZkGNbgsktWJH0-1759" value="&lt;font size=&quot;1&quot;&gt;تخفيض نسبة 15% من ارتفاع الضغط عند&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&amp;nbsp;القيادة&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: x-small; background-color: initial;&quot;&gt;بسرعة عالية&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;shadow=0;html=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="1080" width="154" height="67.67" as="geometry" />
+        </mxCell>
+        <mxCell id="WLHqO2OZkGNbgsktWJH0-1760" value="&lt;font size=&quot;1&quot;&gt;زيادة 20% من وقت المحاولة عند&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;سرقة مركبة بأستخدام فاتح الأقفال&lt;/font&gt;&lt;/div&gt;" style="rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=3;shadow=0;html=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="1000" width="140" height="61.35" as="geometry" />
+        </mxCell>
+        <mxCell id="WLHqO2OZkGNbgsktWJH0-1761" value="" style="endArrow=none;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="WLHqO2OZkGNbgsktWJH0-1739" target="WLHqO2OZkGNbgsktWJH0-1760">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1620" y="854.4800000000001" as="sourcePoint" />
+            <mxPoint x="1575" y="882.4800000000001" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WLHqO2OZkGNbgsktWJH0-1762" value="" style="endArrow=none;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="WLHqO2OZkGNbgsktWJH0-1739" target="WLHqO2OZkGNbgsktWJH0-1759">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1605" y="920" as="sourcePoint" />
+            <mxPoint x="1560" y="948" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WLHqO2OZkGNbgsktWJH0-1763" value="" style="endArrow=none;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;entryX=0.994;entryY=0.373;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WLHqO2OZkGNbgsktWJH0-1739" target="WLHqO2OZkGNbgsktWJH0-1758">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1620" y="968" as="sourcePoint" />
+            <mxPoint x="1575" y="996" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WLHqO2OZkGNbgsktWJH0-1764" value="&lt;div&gt;&lt;font size=&quot;1&quot;&gt;زيادة نسبة الحظ 20% عندما&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;يقوم اللاعب بالبحث عن مفتاح&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;المركبة&lt;/font&gt;&lt;/div&gt;" style="rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=3;shadow=0;html=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="800.19" width="124" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="WLHqO2OZkGNbgsktWJH0-1765" value="&lt;font size=&quot;1&quot;&gt;تقليل نسبة 40% من حدوث&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;اغماء للاعب عند اصطدامة&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;وهو يقود المركبة بسرعة عاليه&lt;/font&gt;&lt;/div&gt;" style="rounded=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;shadow=0;html=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="1594" y="740.5600000000001" width="120" height="51.13" as="geometry" />
+        </mxCell>
+        <mxCell id="WLHqO2OZkGNbgsktWJH0-1766" value="&lt;font size=&quot;1&quot;&gt;تقليل 20% من فرصة فقدان&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;الإطارات عند القفز بالمركبة&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;من اماكن مرتفعه&lt;/font&gt;&lt;/div&gt;" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;shadow=0;html=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="891.69" width="120" height="60.19" as="geometry" />
+        </mxCell>
+        <mxCell id="WLHqO2OZkGNbgsktWJH0-1767" value="" style="endArrow=none;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="WLHqO2OZkGNbgsktWJH0-1741" target="WLHqO2OZkGNbgsktWJH0-1765">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1800" y="687.01" as="sourcePoint" />
+            <mxPoint x="1800" y="628.01" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WLHqO2OZkGNbgsktWJH0-1768" value="" style="endArrow=none;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="WLHqO2OZkGNbgsktWJH0-1741" target="WLHqO2OZkGNbgsktWJH0-1766">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1722.5" y="739.51" as="sourcePoint" />
+            <mxPoint x="1707.5" y="668.51" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WLHqO2OZkGNbgsktWJH0-1769" value="" style="endArrow=none;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="WLHqO2OZkGNbgsktWJH0-1741" target="WLHqO2OZkGNbgsktWJH0-1764">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1778.2499999999998" y="724.9100000000001" as="sourcePoint" />
+            <mxPoint x="1730" y="739.505625" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
       </root>
